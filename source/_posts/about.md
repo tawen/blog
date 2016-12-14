@@ -3,6 +3,8 @@ title: 我的第一篇blog
 date: 2016-12-14 11:20:25
 type: "about"
 tags:
+- 感悟
+- 感悟2
 ---
 <img src= "https://tawen.github.io/img/about.jpg" width="100%" />
 今天温度虽然有点冷，但是阳光明媚。。。

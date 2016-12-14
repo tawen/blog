@@ -16,10 +16,10 @@ widgets: #站点右边栏，暂时默认，后面介绍修改和添加
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/tawen"
+  weibo: "http://weibo.com/3168014535/profile?topnav=1&wvr=6&is_all=1"
+  #rss: /atom.xml #rss地址  默认即可
+  zhihu: "https://www.zhihu.com/people/liu-zhen-hua-74-57"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -30,7 +30,7 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-rss: /atom.xml
+#rss: /atom.xml
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，

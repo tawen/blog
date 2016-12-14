@@ -6,4 +6,4 @@ tags:
 ---
 <img src= "https://tawen.github.io/img/about.jpg" width="100%" />
 今天温度虽然有点冷，但是阳光明媚。。。
-欢迎大家关注的我[新浪微博](http://weibo.com/u/3168014535/home?wvr=5)!
+欢迎大家关注的我[新浪微博](http://weibo.com/3168014535/profile?topnav=1&wvr=6&is_all=1)!
